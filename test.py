@@ -1,5 +1,7 @@
 import boto3
 
+
+klklnlk
 # Hardcoded AWS Credentials 
 AWS_ACCESS_KEY = "AKIATESTACCESSKEY1234"
 AWS_SECRET_KEY = "testSecretKey1234567890abcdefg"
