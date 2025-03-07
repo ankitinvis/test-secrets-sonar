@@ -1,6 +1,6 @@
 import boto3
 
-
+props.set("aws-secret-access-key", "kHeUAwnSUizTWpSbyGAz4f+As5LshPIjvtpswqGb")
 #testing
 # Hardcoded AWS Credentials 
 AWS_ACCESS_KEY = "AKIATESTACCESSKEY1234"
