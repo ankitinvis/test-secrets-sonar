@@ -4,7 +4,7 @@ import boto3
 klklnlk
 # Hardcoded AWS Credentials 
 AWS_ACCESS_KEY = "AKIATESTACCESSKEY1234"
-AWS_SECRET_KEY = "testSecretKey1234567890abcdefg"
+AWS_SECRET_ACCESS_KEY = "testSecretKey1234567890abcdefg"
 REGION = "us-east-1"
 
 # Hardcoded EC2 Configurtion
